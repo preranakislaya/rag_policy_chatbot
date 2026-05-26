@@ -1,0 +1,16 @@
+.venv
+.git
+.gitignore
+
+__pycache__
+*.pyc
+
+.env
+*.pem
+
+chatbot.db
+
+uploads
+vectorstore
+
+*.log
